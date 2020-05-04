@@ -1,6 +1,6 @@
 # uptodo
 
-A new Flutter project.
+A new Flutter project with todo feature.
 
 ## Getting Started
 
